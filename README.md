@@ -1,5 +1,5 @@
 # Titanic-Problem
-This Repo include solution of titanic problem posted in Kaggle in Python
+
 <br>
 <b>Its just a Rough and juick implementation of Titanic Problem Better one is comming soon..</b><br>
 
